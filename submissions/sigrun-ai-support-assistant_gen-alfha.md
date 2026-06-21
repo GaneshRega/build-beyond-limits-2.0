@@ -5,6 +5,7 @@ Sigrun — AI Support Assistant with Memory
 Gen Alfha
 - Ganesh Rega
 - Harshvardhan
+- Teja
 
 # Problem statement selected
 Custom / novel use case, as explicitly permitted in PROBLEM_STATEMENTS.md ("Teams of 2 to 4 participants will choose one of the proposed projects below — or propose their own novel use case"). None of the listed Track A or Track B items combine Valkey, Breeth, and a React frontend the way this event specifically required, so we designed a project that would genuinely need all three rather than forcing an existing integration to fit.
@@ -29,6 +30,7 @@ https://github.com/GaneshRega/build-beyond-limits-starter
 # LinkedIn profile
 - https://www.linkedin.com/in/ganesh-rega-uiux99/
 - https://www.linkedin.com/in/harsha-vardhan-101b77374
+- https://www.linkedin.com/in/urogondateja
 
 # GitHub username
 GaneshRega
