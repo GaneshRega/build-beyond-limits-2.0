@@ -1,9 +1,8 @@
 # Project name
 Sigrun — AI Support Assistant with Memory
-*(Replace if your team picked a different name)*
 
 # Your name / Team name
-[Fill in — e.g. "Ganesh Rega" if solo, or your team name + member names]
+Gen Alfha
 
 # Problem statement selected
 Custom / novel use case, as explicitly permitted in PROBLEM_STATEMENTS.md ("Teams of 2 to 4 participants will choose one of the proposed projects below — or propose their own novel use case"). None of the listed Track A or Track B items combine Valkey, Breeth, and a React frontend the way this event specifically required, so we designed a project that would genuinely need all three rather than forcing an existing integration to fit.
@@ -26,11 +25,10 @@ We used Valkey as a cache-aside layer in front of the LLM: every incoming questi
 https://github.com/GaneshRega/build-beyond-limits-starter
 
 # LinkedIn profile
-[Fill in your LinkedIn URL]
+https://www.linkedin.com/in/ganesh-rega-uiux99/
 
 # GitHub username
 GaneshRega
-[Add teammates' GitHub usernames here if submitting as a team]
 
 # What's already working
 - Valkey cache-aside is fully functional and demoed: identical questions return instantly on repeat, with a visible badge and live activity log entry confirming no LLM call was made.
